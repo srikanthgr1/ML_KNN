@@ -1,0 +1,13 @@
+K N N - K Nearest Neighbours 
+
+Eager Learning - Learn on training and have model ready (Decission Trees, Naive Baiyesm SVM, NN)
+
+Lazy LEarning - When we need to check for new data the patterns are udnerstood and values are predicted. doesnot store any learning , when test data is given it runs onf training data and then learns ( KNN )
+
+
+KNN : Summary -->
+
+Guidelines to chose k value 
+1) k = Square root of number of instances is a good starting point to choose K values
+2) Do a K-fold CV for diffn values of k 
+
